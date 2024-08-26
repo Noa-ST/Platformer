@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2385189595
+    locked: 0
+  - name: Foreground
+    uniqueID: 3705945465
+    locked: 0
+  - name: Player
+    uniqueID: 120386971
+    locked: 0
+  - name: Ground-Wall
+    uniqueID: 1024594473
+    locked: 0
+  - name: Health
+    uniqueID: 3794091203
+    locked: 0
+  - name: UI
+    uniqueID: 1655518267
+    locked: 0
